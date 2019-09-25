@@ -22,5 +22,5 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'MDL-66173 Login Hook Tester';
-$string['extendform'] = 'Injected form extension element';
+$string['pluginname'] = 'MDL-59562 Version Tester';
+

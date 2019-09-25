@@ -15,16 +15,16 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Tester plugin for MDL-66173 
+ * Tester plugin for MDL-59562 
  *
- * @package    tool_loginhooktester
+ * @package    tool_versiontester
  * @copyright  2019 Peter Burnett <peterburnett@catalyst-au.net>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2019080600;
-$plugin->release   = 2019080600; // Match release exactly to version.
+$plugin->version   = 2019092400;
+$plugin->release   = 2019092400; // Match release exactly to version.
 $plugin->requires  = 2016052300;
-$plugin->component = 'tool_loginhooktester';
+$plugin->component = 'tool_versiontester';
 $plugin->maturity  = MATURITY_STABLE;
