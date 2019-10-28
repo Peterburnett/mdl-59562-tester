@@ -28,5 +28,5 @@ $plugin->release   = 2019092400; // Match release exactly to version.
 $plugin->requires  = 2016052300;
 $plugin->component = 'tool_versiontester';
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->supported = array(31-37);
+$plugin->supported = [31,37];
 $plugin->incompatible = 30;
