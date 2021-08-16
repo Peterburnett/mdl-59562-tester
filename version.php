@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Tester plugin for MDL-59562 
+ * Tester plugin for MDL-59562
  *
  * @package    tool_versiontester
  * @copyright  2019 Peter Burnett <peterburnett@catalyst-au.net>
@@ -29,4 +29,4 @@ $plugin->requires  = 2016052300;
 $plugin->component = 'tool_versiontester';
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->supported = [31,37];
-$plugin->incompatible = 39;
+$plugin->incompatible = 35;
